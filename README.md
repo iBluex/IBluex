@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██╗     ██╗   ██╗██╗   ██╗
-██╔══██╗██║     ██║   ██║╚██╗ ██╔╝
-██████╔╝██║     ██║   ██║ ╚████╔╝ 
-██╔══██╗██║     ██║   ██║  ╚██╔╝  
-██████╔╝███████╗╚██████╔╝   ██║   
-╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=4D9FFF&center=true&vCenter=true&width=620&lines=Solana+dev+%E2%9A%A1+on-chain+analyst+%F0%9F%94%8D;4+years+reading+the+market+before+the+code;Rust+%7C+Anchor+%7C+web3.js+%7C+Solidity;se+o+programa+n%C3%A3o+roda%2C+n%C3%A3o+existe)](https://git.io/typing-svg)
 
