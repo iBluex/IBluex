@@ -7,7 +7,7 @@
 
 ---
 
-## 🔵 Bluy — Solana Dev & On-Chain Analyst
+## 🔵 Blue — Solana Dev & On-Chain Analyst
 
 > *Trade taught me to read the chain. Code taught me to understand it.*
 
