@@ -63,7 +63,7 @@ EVM isn't foreign either. Cross-chain is just part of the game.
 ```rust
 // bluy.rs
 
-pub struct Bluy {
+pub struct Blue {
     // Solana-native ⚡
     pub programs: Vec<&'static str>,        // ["Anchor programs", "native programs", "PDAs", "CPIs"]
     pub infra: Vec<&'static str>,           // ["RPC nodes", "Geyser plugins", "validators basics"]
@@ -132,14 +132,6 @@ Only then I have an opinion.
 </p>
 
 ---
-
-## 🔗 Links
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iBluex)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/iBluex)
-
----
-
 <div align="center">
 
 `⚡ build on solana · analyze everything · trust the code, not the narrative ⚡`
